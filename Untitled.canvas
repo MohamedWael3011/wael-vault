@@ -40,8 +40,9 @@
       "height": 490,
       "id": "fdf37a845963d370",
       "styleAttributes": {
+        "textAlign": "center"
       },
-      "text": "",
+      "text": "Waw",
       "type": "text",
       "width": 260,
       "x": 100,
