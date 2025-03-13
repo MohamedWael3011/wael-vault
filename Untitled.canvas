@@ -19,7 +19,8 @@
       "height": 60,
       "id": "41ee3a63f6c75038",
       "styleAttributes": {
-        "shape": "database"
+        "shape": "database",
+        "textAlign": "center"
       },
       "text": "DB",
       "type": "text",
