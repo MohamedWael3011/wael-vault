@@ -7,6 +7,4 @@ Their service falls apart
 I hate Vodafone
 Their coverage tears me apart
 I hate anything else
-dd
-:DD
-BRUH
+AAAAAAHAHHHHHHH
