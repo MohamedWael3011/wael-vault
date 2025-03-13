@@ -8,17 +8,29 @@
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
+<<<<<<< HEAD
   "disablePopupsForNoChanges": false,
+=======
+  "disablePopupsForNoChanges": true,
+>>>>>>> origin/main
   "listChangedFilesInMessageBody": false,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
+<<<<<<< HEAD
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
+=======
+  "autoBackupAfterFileChange": true,
+  "treeStructure": false,
+  "refreshSourceControl": true,
+  "basePath": "",
+  "differentIntervalCommitAndPush": true,
+>>>>>>> origin/main
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
@@ -27,7 +39,11 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "",
   "showFileMenu": true,
+<<<<<<< HEAD
   "authorInHistoryView": "hide",
+=======
+  "authorInHistoryView": "initials",
+>>>>>>> origin/main
   "dateInHistoryView": false,
   "diffStyle": "split",
   "lineAuthor": {
