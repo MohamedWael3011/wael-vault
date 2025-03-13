@@ -1,4 +1,9 @@
 {
-	"nodes":[],
-	"edges":[]
+	"nodes":[
+		{"id":"a0680e2239051bff","x":-177,"y":-20,"width":250,"height":60,"type":"text","text":"Hiii :D "},
+		{"id":"746c613b26a37581","x":-51,"y":-171,"width":250,"height":60,"type":"text","text":"Lol"}
+	],
+	"edges":[
+		{"id":"3d5f68d3314c997e","fromNode":"a0680e2239051bff","fromSide":"top","toNode":"746c613b26a37581","toSide":"bottom"}
+	]
 }
