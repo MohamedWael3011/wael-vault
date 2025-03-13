@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f4217f4d634feb6c",
+        "id": "9aef98d09d6d6d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "20d170f2007e86d7",
+            "id": "0953b927a33af9ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "create a link.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "create a link"
-            }
-          },
-          {
-            "id": "e6210a5314544036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Welcome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -157,21 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Welcome"
+            }
+          },
+          {
+            "id": "5528e45449205690",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,13 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6210a5314544036",
+  "active": "0953b927a33af9ef",
   "lastOpenFiles": [
-    "create a link.md",
-    "conflict-files-obsidian-git.md",
-    "folderr/Hmmm.md",
-    "Untitled.canvas",
     "Welcome.md",
+    "Untitled.canvas",
+    "create a link.md",
+    "folderr/Hmmm.md",
     "folderr",
     "Untitled 1.canvas",
     "2025-03-14.md"
