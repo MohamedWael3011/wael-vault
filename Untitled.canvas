@@ -8,6 +8,15 @@
       },
       "toNode": "5a763c4138836c3e",
       "toSide": "top"
+    },
+    {
+      "fromNode": "fdf37a845963d370",
+      "fromSide": "top",
+      "id": "fc65b964d5a7842c",
+      "styleAttributes": {
+      },
+      "toNode": "616336dce21134c4",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
@@ -45,8 +54,8 @@
       "text": "Waw",
       "type": "text",
       "width": 260,
-      "x": 100,
-      "y": -130
+      "x": 120,
+      "y": -170
     }
   ]
 }
