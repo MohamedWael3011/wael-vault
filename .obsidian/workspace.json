@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "create a link.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "create a link"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "0953b927a33af9ef",
   "lastOpenFiles": [
-    "Welcome.md",
     "Untitled.canvas",
+    "Welcome.md",
     "create a link.md",
     "folderr/Hmmm.md",
     "folderr",
