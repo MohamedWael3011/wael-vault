@@ -18,6 +18,7 @@
       "height": 60,
       "id": "3f3eaca101617f71",
       "styleAttributes": {
+        "textAlign": "center"
       },
       "text": "2",
       "type": "text",
