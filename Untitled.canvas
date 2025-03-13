@@ -28,8 +28,9 @@
       "height": 60,
       "id": "5a763c4138836c3e",
       "styleAttributes": {
+        "textAlign": "center"
       },
-      "text": "",
+      "text": "dsdsd",
       "type": "text",
       "width": 260,
       "x": -180,
