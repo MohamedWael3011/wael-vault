@@ -1,18 +1,9 @@
 {
   "edges": [
-    {
-      "fromNode": "7fd5d96f0e0c0966",
-      "fromSide": "bottom",
-      "id": "a98002fad89ff352",
-      "styleAttributes": {
-      },
-      "toNode": "2c2d0547b78306f2",
-      "toSide": "top"
-    }
   ],
   "nodes": [
     {
-      "height": 60,
+      "height": 220,
       "id": "7fd5d96f0e0c0966",
       "styleAttributes": {
         "shape": "circle"
@@ -21,7 +12,7 @@
       "type": "text",
       "width": 260,
       "x": -120,
-      "y": -40
+      "y": -200
     }
   ]
 }
