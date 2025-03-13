@@ -35,6 +35,17 @@
       "width": 260,
       "x": -180,
       "y": 260
+    },
+    {
+      "height": 60,
+      "id": "fdf37a845963d370",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 260,
+      "x": 100,
+      "y": 300
     }
   ]
 }
