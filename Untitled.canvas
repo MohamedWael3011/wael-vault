@@ -6,7 +6,8 @@
       "height": 60,
       "id": "f628e20d7ed6379a",
       "styleAttributes": {
-        "shape": "predefined-process"
+        "shape": "predefined-process",
+        "textAlign": "center"
       },
       "text": "dsdsa",
       "type": "text",
