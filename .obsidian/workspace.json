@@ -11,14 +11,17 @@
             "id": "529681c6b67995bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "folderr/Hmmm.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -46.65999999999999,
+                  "y": 76.79000000000003,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Hmmm"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -179,10 +182,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cf4bad0fa7fdf17",
+  "active": "529681c6b67995bb",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "folderr/Hmmm.md",
+    "Untitled.canvas",
     "folderr",
     "Welcome.md",
     "create a link.md",
