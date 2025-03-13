@@ -4,7 +4,7 @@
   "autoSaveInterval": 0.1,
   "autoPushInterval": 0.1,
   "autoPullInterval": 0.1,
-  "autoPullOnBoot": true,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -14,7 +14,11 @@
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
+<<<<<<< HEAD
   "autoBackupAfterFileChange": true,
+=======
+  "autoBackupAfterFileChange": false,
+>>>>>>> origin/main
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
