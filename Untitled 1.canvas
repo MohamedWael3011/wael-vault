@@ -6,6 +6,7 @@
       "height": 60,
       "id": "951382e9979eb9fa",
       "styleAttributes": {
+        "textAlign": "center"
       },
       "text": "",
       "type": "text",
