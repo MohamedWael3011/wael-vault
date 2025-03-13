@@ -1,31 +1,25 @@
 {
-  "edges": [
-  ],
-  "nodes": [
-    {
-      "height": 220,
-      "id": "7fd5d96f0e0c0966",
-      "styleAttributes": {
-        "shape": "parallelogram",
-        "textAlign": "center"
-      },
-      "text": "\n   Whaaat the hell",
-      "type": "text",
-      "width": 260,
-      "x": -120,
-      "y": -200
-    },
-    {
-      "height": 60,
-      "id": "41ee3a63f6c75038",
-      "styleAttributes": {
-        "shape": "database"
-      },
-      "text": "",
-      "type": "text",
-      "width": 260,
-      "x": 160,
-      "y": -80
-    }
-  ]
+	"edges":[],
+	"nodes":[
+		{
+			"height":220,
+			"id":"7fd5d96f0e0c0966",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"text":"\n   Whaaat the hell",
+			"type":"text",
+			"width":260,
+			"x":-120,
+			"y":-200
+		},
+		{
+			"height":60,
+			"id":"41ee3a63f6c75038",
+			"styleAttributes":{"shape":"database"},
+			"text":"",
+			"type":"text",
+			"width":260,
+			"x":160,
+			"y":-80
+		}
+	]
 }
