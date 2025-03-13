@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1480b7452ac8a2",
+        "id": "6c2bc8cfca229ace",
         "type": "tabs",
         "children": [
           {
-            "id": "9651a8f8bf1fd28f",
+            "id": "4633d5602eb5fe9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "folderr/salah's poem.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "salah's poem"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           },
           {
-            "id": "d2d03757590d50b6",
+            "id": "f48f150cde5ba665",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2d03757590d50b6",
+  "active": "f48f150cde5ba665",
   "lastOpenFiles": [
-    "folderr/salah's poem.md",
     "conflict-files-obsidian-git.md",
+    "folderr/salah's poem.md",
+    "Untitled.md",
     "folderr/Hmmm.md",
     "Untitled.canvas",
     "create a link.md",
