@@ -6,9 +6,9 @@
       "height": 220,
       "id": "7fd5d96f0e0c0966",
       "styleAttributes": {
-        "shape": "circle"
+        "shape": "diamond"
       },
-      "text": "Hi?",
+      "text": "\n   W",
       "type": "text",
       "width": 260,
       "x": -120,
