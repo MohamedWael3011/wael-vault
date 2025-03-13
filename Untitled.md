@@ -1,4 +1,3 @@
 - [ ] Remember to do that important thing - with a due date 📅 2022-12-17
 - [ ] 📅 2025-03-14 🛫 2025-03-15 ⏫ 🔁 every week ➕ 2025-03-14 🆔
 
-# Only tasks that are not done, that is, which begin like this (but without the quotes): # '- [ ] ' or # '* [ ] ' or # '1. [ ] ' # Indented tasks are supported, but only single-line tasks. not done # Tasks due today or earlier: due before tomorrow # Restrict to at most 100 tasks. # If you ask Tasks to display many hundreds or thousands of tasks, # Obsidian's editing performance really slows down. limit 100 # Group and sort the output: group by filename sort by due reverse sort by description # Optionally, ask Tasks to explain how it interpreted this query: explain
