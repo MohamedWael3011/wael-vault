@@ -37,7 +37,7 @@
       "y": 260
     },
     {
-      "height": 490,
+      "height": 480,
       "id": "fdf37a845963d370",
       "styleAttributes": {
         "textAlign": "center"
@@ -46,7 +46,7 @@
       "type": "text",
       "width": 260,
       "x": 120,
-      "y": -170
+      "y": -160
     }
   ]
 }
